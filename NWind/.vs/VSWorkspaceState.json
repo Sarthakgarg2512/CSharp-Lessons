@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NWind",
+    "\\NWind\\Models",
+    "\\NWind\\Views",
+    "\\NWind\\Views\\Home",
+    "\\NWind\\Views\\Shared",
+    "\\NWind\\wwwroot\\lib",
+    "\\NWind\\wwwroot\\lib\\bootstrap",
+    "\\NWind\\wwwroot\\lib\\bootstrap\\dist",
+    "\\NWind\\wwwroot\\lib\\bootstrap\\dist\\css"
+  ],
+  "SelectedNode": "\\NWind\\Models\\RepositoryCustomer.cs",
+  "PreviewInSolutionExplorer": false
+}
